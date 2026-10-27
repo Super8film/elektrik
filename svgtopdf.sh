@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Verzeichnis mit den SVG-Dateien
-DIR="$HOME/Documents/rohbaecher"
+DIR="$HOME/Documents/rohbaecher/elektrik"
 
 # Prüfen, ob Inkscape installiert ist
 if ! command -v inkscape >/dev/null 2>&1; then
